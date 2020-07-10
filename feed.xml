@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Marina Prokhorova</title>
-    <link href="https://marina-prokhorova.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://marina-prokhorova.github.io/gh-pages" />
+    <link href="https://marina-p.info/feed.xml" rel="self" />
+    <link href="https://marina-p.info" />
     <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>Marina Prokhorova</name>
     </author>
-    <id>https://marina-prokhorova.github.io/gh-pages</id>
+    <id>https://marina-p.info</id>
 
     <entry>
         <title>Test</title>
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/test.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/test.html</id>
+        <link href="https://marina-p.info/test/"/>
+        <id>https://marina-p.info/test/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                      111 ggg 
@@ -66,10 +66,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/archive.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/archive.html</id>
+        <link href="https://marina-p.info/archive/"/>
+        <id>https://marina-p.info/archive/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     Algebraic Topology Learning Seminar Category Theory Learning Seminar International School on Algebra&hellip;
@@ -77,11 +77,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://marina-prokhorova.github.io/gh-pages/algebraic-topology-learning-seminar.html">Algebraic Topology Learning Seminar</a></p>
-<p><a href="https://marina-prokhorova.github.io/gh-pages/category-theory-learning-seminar.html">Category Theory Learning Seminar</a></p>
-<p><a href="https://marina-prokhorova.github.io/gh-pages/international-school-on-algebra-and-algebraic-geometry.html">International School on Algebra and Algebraic Geometry</a></p>
-<p><a href="https://marina-prokhorova.github.io/gh-pages/international-conference-on-algebra-and-geometry.html">International Conference on Algebra and Geometry</a></p>
-<p><a href="https://marina-prokhorova.github.io/gh-pages/introduction-to-algebraic-geometry.html">Introduction to Algebraic Geometry</a></p>
+                <p><a href="https://marina-p.info/algebraic-topology-learning-seminar/">Algebraic Topology Learning Seminar</a></p>
+<p><a href="https://marina-p.info/category-theory-learning-seminar/">Category Theory Learning Seminar</a></p>
+<p><a href="https://marina-p.info/international-school-on-algebra-and-algebraic-geometry/">International School on Algebra and Algebraic Geometry</a></p>
+<p><a href="https://marina-p.info/international-conference-on-algebra-and-geometry/">International Conference on Algebra and Geometry</a></p>
+<p><a href="https://marina-p.info/introduction-to-algebraic-geometry/">Introduction to Algebraic Geometry</a></p>
             ]]>
         </content>
     </entry>
@@ -90,10 +90,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/selected-publications.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/selected-publications.html</id>
+        <link href="https://marina-p.info/selected-publications/"/>
+        <id>https://marina-p.info/selected-publications/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     My papers on Google ScholarSelf-adjoint local boundary problems on compact surfaces. II.
@@ -128,10 +128,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/category-theory-learning-seminar.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/category-theory-learning-seminar.html</id>
+        <link href="https://marina-p.info/category-theory-learning-seminar/"/>
+        <id>https://marina-p.info/category-theory-learning-seminar/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     Семинар по изучению теории категорийРаботал с февраля 2011 по май 2012г. Руководители&hellip;
@@ -189,10 +189,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/international-school-on-algebra-and-algebraic-geometry.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/international-school-on-algebra-and-algebraic-geometry.html</id>
+        <link href="https://marina-p.info/international-school-on-algebra-and-algebraic-geometry/"/>
+        <id>https://marina-p.info/international-school-on-algebra-and-algebraic-geometry/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                      The International School on Algebra and Algebraic Geometry is a satellite&hellip;
@@ -200,11 +200,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img loading="lazy" title="We are grateful to Alexey Gorodentsev for logotype" src="https://marina-prokhorova.github.io/gh-pages/media/posts/8/logotype_DSC0036_1024x758.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/logotype_DSC0036_1024x758-xs.jpg 300w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/logotype_DSC0036_1024x758-sm.jpg 480w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/logotype_DSC0036_1024x758-md.jpg 768w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/logotype_DSC0036_1024x758-lg.jpg 1024w"  alt="" width="620"></p>
-<p>The <strong><a href="http://algebra.imm.uran.ru/algebra/School.html">International School on Algebra and Algebraic Geometry</a></strong> is a satellite of the <a href="https://marina-prokhorova.github.io/gh-pages/international-conference-on-algebra-and-geometry.html">International conference on algebra and geometry</a>.</p>
+                <p><img loading="lazy" title="We are grateful to Alexey Gorodentsev for logotype" src="https://marina-p.info/media/posts/8/logotype_DSC0036_1024x758.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-p.info/media/posts/8/responsive/logotype_DSC0036_1024x758-xs.jpg 300w ,https://marina-p.info/media/posts/8/responsive/logotype_DSC0036_1024x758-sm.jpg 480w ,https://marina-p.info/media/posts/8/responsive/logotype_DSC0036_1024x758-md.jpg 768w ,https://marina-p.info/media/posts/8/responsive/logotype_DSC0036_1024x758-lg.jpg 1024w"  alt="" width="620"></p>
+<p>The <strong><a href="http://algebra.imm.uran.ru/algebra/School.html">International School on Algebra and Algebraic Geometry</a></strong> is a satellite of the <a href="https://marina-p.info/international-conference-on-algebra-and-geometry/">International conference on algebra and geometry</a>.</p>
 <p>The school was held on <strong>August 14-21, 2011</strong> at the recreation center <a href="http://www.crystalbaze.ru/">"Hrustal'naya"</a> near <strong>Ekaterinburg, Russia</strong>.</p>
 <p>The school was organized by the <a href="http://www.imm.uran.ru/">Institute of Mathematics and Mechanics of the Ural Branch of the Russian Academy of Sciences</a> and by the <a href="http://ag.hse.ru/">Laboratory of algebraic geometry and its applications of the Higher School of Economics</a>.</p>
-<p><a href="http://algebra.imm.uran.ru/algebra/Kab_7528_short.jpg"><img loading="lazy" src="https://marina-prokhorova.github.io/gh-pages/media/posts/8/Kab_7528_short_1024.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/Kab_7528_short_1024-xs.jpg 300w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/Kab_7528_short_1024-sm.jpg 480w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/Kab_7528_short_1024-md.jpg 768w ,https://marina-prokhorova.github.io/gh-pages/media/posts/8/responsive/Kab_7528_short_1024-lg.jpg 1024w"  alt="" width="100%"></a></p>
+<p><a href="http://algebra.imm.uran.ru/algebra/Kab_7528_short.jpg"><img loading="lazy" src="https://marina-p.info/media/posts/8/Kab_7528_short_1024.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-p.info/media/posts/8/responsive/Kab_7528_short_1024-xs.jpg 300w ,https://marina-p.info/media/posts/8/responsive/Kab_7528_short_1024-sm.jpg 480w ,https://marina-p.info/media/posts/8/responsive/Kab_7528_short_1024-md.jpg 768w ,https://marina-p.info/media/posts/8/responsive/Kab_7528_short_1024-lg.jpg 1024w"  alt="" width="100%"></a></p>
 <div id="ctl00_mainContent_ctl01_pnlOuterWrap">
 <div id="ctl00_mainContent_ctl01_pnlInnerWrap" class="panelwrapper htmlmodule">
 <h2 id="module35" class=" moduletitle">School program</h2>
@@ -275,10 +275,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/international-conference-on-algebra-and-geometry.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/international-conference-on-algebra-and-geometry.html</id>
+        <link href="https://marina-p.info/international-conference-on-algebra-and-geometry/"/>
+        <id>https://marina-p.info/international-conference-on-algebra-and-geometry/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     The International conference on algebra and geometry is dedicated to the 80-th&hellip;
@@ -329,10 +329,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/introduction-to-algebraic-geometry.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/introduction-to-algebraic-geometry.html</id>
+        <link href="https://marina-p.info/introduction-to-algebraic-geometry/"/>
+        <id>https://marina-p.info/introduction-to-algebraic-geometry/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     Миникурс А.Л.Городенцева "Интенсивное геометрическое введение в алгебраическую геометрию"С 8 по 13 октября&hellip;
@@ -455,10 +455,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/algebraic-topology-learning-seminar.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/algebraic-topology-learning-seminar.html</id>
+        <link href="https://marina-p.info/algebraic-topology-learning-seminar/"/>
+        <id>https://marina-p.info/algebraic-topology-learning-seminar/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     СЕМИНАР ПО АЛГЕБРАИЧЕСКОЙ ТОПОЛОГИИРаботал с февраля 2008 г. по 2014 г. Руководитель&hellip;
@@ -535,10 +535,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/seminar-talks.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/seminar-talks.html</id>
+        <link href="https://marina-p.info/seminar-talks/"/>
+        <id>https://marina-p.info/seminar-talks/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     2020GAMP/QMATH Seminar (University of Copenhagen, Denmark)2019Operator Algebras/Operator Theory Seminar (Ben Gurion University, Beer-Sheva, Israel)2019Geometry&hellip;
@@ -659,10 +659,10 @@
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-prokhorova.github.io/gh-pages/marina-prokhorova.html"/>
-        <id>https://marina-prokhorova.github.io/gh-pages/marina-prokhorova.html</id>
+        <link href="https://marina-p.info/marina-prokhorova/"/>
+        <id>https://marina-p.info/marina-prokhorova/</id>
 
-        <updated>2020-07-10T09:04:01+03:00</updated>
+        <updated>2020-07-10T20:07:12+03:00</updated>
             <summary>
                 <![CDATA[
                     Curriculum Vitae PublicationsPERSONAL INFORMATIONBorn: 1967, Sverdlovsk, USSR Citizenship: Russian, Israeli (from 09/2016)&hellip;
@@ -670,8 +670,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class=" size-full wp-image-35 alignright"><img loading="lazy"  src="https://marina-prokhorova.github.io/gh-pages/media/posts/3/marina2017small-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-prokhorova.github.io/gh-pages/media/posts/3/responsive/marina2017small-1-xs.jpg 300w ,https://marina-prokhorova.github.io/gh-pages/media/posts/3/responsive/marina2017small-1-sm.jpg 480w ,https://marina-prokhorova.github.io/gh-pages/media/posts/3/responsive/marina2017small-1-md.jpg 768w ,https://marina-prokhorova.github.io/gh-pages/media/posts/3/responsive/marina2017small-1-lg.jpg 1024w"  alt="marina2017small-1" width="302" height="367"></figure>
-<h4><a href="https://drive.google.com/file/d/1X9RnLdRMLlw8gZCpZOikiX1AEDz_ZBQV/view?usp=sharing">Curriculum Vitae </a>           <a href="https://marina-prokhorova.github.io/gh-pages/selected-publications.html">Publications</a></h4>
+                <figure class=" size-full wp-image-35 alignright"><img loading="lazy"  src="https://marina-p.info/media/posts/3/marina2017small-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-p.info/media/posts/3/responsive/marina2017small-1-xs.jpg 300w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-sm.jpg 480w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-md.jpg 768w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-lg.jpg 1024w"  alt="marina2017small-1" width="302" height="367"></figure>
+<h4><a href="https://drive.google.com/file/d/1X9RnLdRMLlw8gZCpZOikiX1AEDz_ZBQV/view?usp=sharing">Curriculum Vitae </a>           <a href="https://marina-p.info/selected-publications/">Publications</a></h4>
 <h3>PERSONAL INFORMATION</h3>
 <p>Born:  1967, Sverdlovsk, USSR<br>Citizenship:  Russian, Israeli (from 09/2016)<br>Address: Department of Mathematics, Technion - Israel Institute of Technology, Haifa, 32000, Israel<br>E-mail:  marina.p [] campus.technion.ac.il<br>web-site:  <a href="http://marina-p.info">marina-p.info</a> (mirror: <a href="https://marinaprokhorova.wordpress.com/">MarinaProkhorova.wordpress.com</a>)<br>Interests:  global analysis, elliptic operators, topology, K-theory, nonstandard analysis<br>Family:  <a href="https://www.linkedin.com/in/moridin">son</a>, <a href="http://iraprohorova.com/">daughter</a></p>
 <h3>EDUCATION</h3>
@@ -826,7 +826,7 @@
 </ol>
 <h2>INVITED TALKS</h2>
 <p>2014  Conference <a href="http://www2.mathematik.hu-berlin.de/~geomanal/gssi/">Geometric Structures and Spectral Invariants</a> (Berlin, Germany), invited speaker</p>
-<p><strong><a href="https://marina-prokhorova.github.io/gh-pages/seminar-talks.html">SEMINAR TALKS</a></strong></p>
+<p><strong><a href="https://marina-p.info/seminar-talks/">SEMINAR TALKS</a></strong></p>
 <h2>OTHER PROFESSIONAL ACTIVITIES</h2>
 <table style="border-collapse: collapse; width: 100%;" border="0" cellspacing="2pt" cellpadding="3pt">
 <tbody>
@@ -836,11 +836,11 @@
 </tr>
 <tr>
 <td width="120">2011</td>
-<td>Organizer of the <a href="https://marina-prokhorova.github.io/gh-pages/international-school-on-algebra-and-algebraic-geometry.html">International School on Algebra and Algebraic Geometry</a></td>
+<td>Organizer of the <a href="https://marina-p.info/international-school-on-algebra-and-algebraic-geometry/">International School on Algebra and Algebraic Geometry</a></td>
 </tr>
 <tr>
 <td width="120">2011</td>
-<td>Member of the Organizing Committee of the <a href="https://marina-prokhorova.github.io/gh-pages/international-conference-on-algebra-and-geometry.html">International Conference on Algebra and Geometry</a></td>
+<td>Member of the Organizing Committee of the <a href="https://marina-p.info/international-conference-on-algebra-and-geometry/">International Conference on Algebra and Geometry</a></td>
 </tr>
 <tr>
 <td width="120">2010, 2011</td>
@@ -848,11 +848,11 @@
 </tr>
 <tr>
 <td width="120">2008-2014</td>
-<td>Advisor for the <a href="https://marina-prokhorova.github.io/gh-pages/algebraic-topology-learning-seminar.html">Algebraic Topology learning seminar</a><br>(Institute of Mathematics and Mechanics, Russian Academy of Sciences / Ural Branch)</td>
+<td>Advisor for the <a href="https://marina-p.info/algebraic-topology-learning-seminar/">Algebraic Topology learning seminar</a><br>(Institute of Mathematics and Mechanics, Russian Academy of Sciences / Ural Branch)</td>
 </tr>
 <tr>
 <td width="120">2011-2012</td>
-<td>Advisor for the <a href="https://marina-prokhorova.github.io/gh-pages/category-theory-learning-seminar.html">Category Theory learning seminar</a> (Ural State University)</td>
+<td>Advisor for the <a href="https://marina-p.info/category-theory-learning-seminar/">Category Theory learning seminar</a> (Ural State University)</td>
 </tr>
 </tbody>
 </table>
