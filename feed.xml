@@ -10,66 +10,14 @@
     <id>https://marina-p.info</id>
 
     <entry>
-        <title>Test</title>
-        <author>
-            <name>Marina Prokhorova</name>
-        </author>
-        <link href="https://marina-p.info/test/"/>
-        <id>https://marina-p.info/test/</id>
-
-        <updated>2020-07-11T08:35:53+03:00</updated>
-            <summary>
-                <![CDATA[
-                     111 ggg 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>111</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:table --></p>
-<figure class="wp-block-table">
-<table>
-<tbody>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-</figure>
-<p><!-- /wp:table --></p>
-<p><!-- wp:columns --></p>
-<div class="wp-block-columns"><!-- wp:column --></p>
-<div class="wp-block-column"></div>
-<p><!-- /wp:column --></p>
-<p><!-- wp:column --></p>
-<div class="wp-block-column"></div>
-<p><!-- /wp:column --></div>
-<p><!-- /wp:columns --></p>
-<p><!-- wp:paragraph --></p>
-<p>ggg</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p></p>
-<p><!-- /wp:paragraph --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Archive</title>
         <author>
             <name>Marina Prokhorova</name>
         </author>
-        <link href="https://marina-p.info/archive/"/>
-        <id>https://marina-p.info/archive/</id>
+        <link href="https://marina-p.info/arc/"/>
+        <id>https://marina-p.info/arc/</id>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     Algebraic Topology Learning Seminar Category Theory Learning Seminar International School on Algebra&hellip;
@@ -93,7 +41,7 @@
         <link href="https://marina-p.info/publications/"/>
         <id>https://marina-p.info/publications/</id>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     My papers on Google ScholarSelf-adjoint local boundary problems on compact surfaces. II.
@@ -130,8 +78,9 @@
         </author>
         <link href="https://marina-p.info/categorytheoryseminar/"/>
         <id>https://marina-p.info/categorytheoryseminar/</id>
+            <category term="archive"/>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     Семинар по изучению теории категорийРаботал с февраля 2011 по май 2012г. Руководители&hellip;
@@ -188,8 +137,9 @@
         </author>
         <link href="https://marina-p.info/school-on-algebra-and-algebraic-geometry/"/>
         <id>https://marina-p.info/school-on-algebra-and-algebraic-geometry/</id>
+            <category term="archive"/>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                      The International School on Algebra and Algebraic Geometry is a satellite&hellip;
@@ -274,8 +224,9 @@
         </author>
         <link href="https://marina-p.info/conference-on-algebra-and-geometry/"/>
         <id>https://marina-p.info/conference-on-algebra-and-geometry/</id>
+            <category term="archive"/>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     The International conference on algebra and geometry is dedicated to the 80-th&hellip;
@@ -328,8 +279,9 @@
         </author>
         <link href="https://marina-p.info/oct-2012/"/>
         <id>https://marina-p.info/oct-2012/</id>
+            <category term="archive"/>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     Миникурс А.Л.Городенцева "Интенсивное геометрическое введение в алгебраическую геометрию"С 8 по 13 октября&hellip;
@@ -448,8 +400,9 @@
         </author>
         <link href="https://marina-p.info/algebraic-topology-seminar/"/>
         <id>https://marina-p.info/algebraic-topology-seminar/</id>
+            <category term="archive"/>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     СЕМИНАР ПО АЛГЕБРАИЧЕСКОЙ ТОПОЛОГИИРаботал с февраля 2008 г. по 2014 г. Руководитель&hellip;
@@ -528,7 +481,7 @@
         <link href="https://marina-p.info/seminar-talks/"/>
         <id>https://marina-p.info/seminar-talks/</id>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     2020GAMP/QMATH Seminar (University of Copenhagen, Denmark)2019Operator Algebras/Operator Theory Seminar (Ben Gurion University, Beer-Sheva, Israel)2019Geometry&hellip;
@@ -651,7 +604,7 @@
         <link href="https://marina-p.info/marina-prokhorova/"/>
         <id>https://marina-p.info/marina-prokhorova/</id>
 
-        <updated>2020-07-11T08:35:53+03:00</updated>
+        <updated>2020-07-11T15:57:18+03:00</updated>
             <summary>
                 <![CDATA[
                     Curriculum Vitae PublicationsPERSONAL INFORMATIONBorn: 1967, Sverdlovsk, USSR Citizenship: Russian, Israeli (from 09/2016)&hellip;
@@ -660,7 +613,7 @@
         <content type="html">
             <![CDATA[
                 <figure class=" size-full wp-image-35 alignright"><img loading="lazy"  src="https://marina-p.info/media/posts/3/marina2017small-1.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://marina-p.info/media/posts/3/responsive/marina2017small-1-xs.jpg 300w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-sm.jpg 480w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-md.jpg 768w ,https://marina-p.info/media/posts/3/responsive/marina2017small-1-lg.jpg 1024w"  alt="marina2017small-1" width="302" height="367"></figure>
-<h4><a href="https://drive.google.com/file/d/1X9RnLdRMLlw8gZCpZOikiX1AEDz_ZBQV/view?usp=sharing">Curriculum Vitae </a>           <a href="https://marina-p.info/publications/">Publications</a></h4>
+<h4><a href="https://marina-p.info/Prokhorova CV 2020-06.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>            <a href="https://marina-p.info/publications/">Publications</a></h4>
 <h3>PERSONAL INFORMATION</h3>
 <p>Born:  1967, Sverdlovsk, USSR<br>Citizenship:  Russian, Israeli (from 09/2016)<br>Address: Department of Mathematics, Technion - Israel Institute of Technology, Haifa, 32000, Israel<br>E-mail:  marina.p [] campus.technion.ac.il<br>web-site:  <a href="http://marina-p.info">marina-p.info</a><br>Interests:  global analysis, elliptic operators, topology, K-theory, nonstandard analysis<br>Family:  <a href="https://www.linkedin.com/in/moridin">son</a>, <a href="http://iraprohorova.com/">daughter</a></p>
 <h3>EDUCATION</h3>
@@ -846,7 +799,7 @@
 </tbody>
 </table>
 <h3>AWARDS</h3>
-<table style="border-collapse: collapse; width: 100%;" border="0" cellspacing="2pt" cellpadding="3pt">
+<table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr style="height: 77px;">
 <td style="height: 77px; width: 120px;">2005</td>
