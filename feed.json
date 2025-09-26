@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-25T07:25:32+02:00",
-            "date_modified": "2020-07-11T15:54:30+03:00"
+            "date_published": "2020-03-25T06:25:32+01:00",
+            "date_modified": "2020-07-11T14:54:30+02:00"
         },
         {
             "id": "https://marina-p.info/publications/",
@@ -34,8 +34,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-25T07:23:05+02:00",
-            "date_modified": "2025-08-20T16:06:26+03:00"
+            "date_published": "2020-03-25T06:23:05+01:00",
+            "date_modified": "2025-08-20T15:06:26+02:00"
         },
         {
             "id": "https://marina-p.info/categorytheoryseminar/",
@@ -48,8 +48,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T19:55:26+02:00",
-            "date_modified": "2020-07-11T16:48:25+03:00"
+            "date_published": "2020-03-23T18:55:26+01:00",
+            "date_modified": "2020-07-11T15:48:25+02:00"
         },
         {
             "id": "https://marina-p.info/school-on-algebra-and-algebraic-geometry/",
@@ -62,8 +62,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T19:53:29+02:00",
-            "date_modified": "2020-07-11T16:56:12+03:00"
+            "date_published": "2020-03-23T18:53:29+01:00",
+            "date_modified": "2020-07-11T15:56:12+02:00"
         },
         {
             "id": "https://marina-p.info/conference-on-algebra-and-geometry/",
@@ -76,8 +76,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T19:46:58+02:00",
-            "date_modified": "2020-07-11T16:56:38+03:00"
+            "date_published": "2020-03-23T18:46:58+01:00",
+            "date_modified": "2020-07-11T15:56:38+02:00"
         },
         {
             "id": "https://marina-p.info/oct-2012/",
@@ -90,8 +90,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T19:42:19+02:00",
-            "date_modified": "2020-07-11T16:58:37+03:00"
+            "date_published": "2020-03-23T18:42:19+01:00",
+            "date_modified": "2020-07-11T15:58:37+02:00"
         },
         {
             "id": "https://marina-p.info/algebraic-topology-seminar/",
@@ -104,22 +104,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T19:34:50+02:00",
-            "date_modified": "2023-01-24T09:49:04+02:00"
+            "date_published": "2020-03-23T18:34:50+01:00",
+            "date_modified": "2023-01-24T08:49:04+01:00"
         },
         {
             "id": "https://marina-p.info/seminar-talks/",
             "url": "https://marina-p.info/seminar-talks/",
             "title": "Seminar talks",
-            "summary": "2023 Noncommutative Geometry Seminar (St Johns University, New York City, USA) 2020&hellip;",
-            "content_html": "<table style=\"font-weight: 400;\">\n<tbody>\n<tr>\n<td>2023</td>\n<td><a href=\"https://researchseminars.org/talk/NYC-NCG/123/\" target=\"_blank\" rel=\"noopener noreferrer\">Noncommutative Geometry Seminar</a> (St Johns University, New York City, USA)</td>\n</tr>\n<tr>\n<td>2020</td>\n<td><a href=\"https://web.northeastern.edu/braverman/AGSeminar.html\">Analysis and Geometry Seminar</a> (Northeastern University, Boston, USA)</td>\n</tr>\n<tr>\n<td width=\"130\">2020</td>\n<td><a href=\"https://qmath.ku.dk/events/gampqmath-seminar-spectral-flow-and-family-index-for-elliptic-boundary-value-problems-on-compact-surfaces/\">GAMP/QMATH Seminar</a> (University of Copenhagen, Denmark)</td>\n</tr>\n<tr>\n<td width=\"130\">2019</td>\n<td><a href=\"https://www.math.bgu.ac.il/en/research/fall2020/seminars/oa-ot-seminar/meetings/2019-12-17\">Operator Algebras/Operator Theory Seminar</a> (Ben Gurion University, Beer-Sheva, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2019</td>\n<td><a href=\"http://sciences.haifa.ac.il/math/wp/?p=1565\">Geometry &amp; Topology Seminar</a> (University of Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2019</td>\n<td><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo908\">Algebra Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2019</td>\n<td><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo881\">PDE and Applied Mathematics Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2019</td>\n<td><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo879\">Operator Algebras/Operator Theory Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2018</td>\n<td><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo737\">Operator Algebras/Operator Theory Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2018</td>\n<td>Nonlinear Analysis and Optimization Seminar: <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo670\">1</a>, <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo683\">2</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2015</td>\n<td><a href=\"http://ag.hse.ru/seminar\">Seminar of Laboratory of Algebraic Geometry and its Applications</a> (Moscow, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2015</td>\n<td>Nonlinear Analysis and Optimization Seminar: <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo57\">1</a>, <a href=\"http://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo73\">2</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2015</td>\n<td>Geometry and Topology Seminar (Weizmann Institute of Sciences, Rehovot, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2015</td>\n<td><a href=\"http://www.math.bgu.ac.il/colloq/Calendar?event=a3e7b222982fc18b055eacecbb137ba0\">Operator and System Theory Seminar</a> (Ben-Gurion University, Beer-Sheva, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2014</td>\n<td><a href=\"http://recherche.math.univ-angers.fr/spip.php?article13&amp;site=56&amp;session=15&amp;presentation=80\">Mathematical physics seminar</a> (Angers University, France)</td>\n</tr>\n<tr>\n<td width=\"130\">2013</td>\n<td><a href=\"http://vyshka.math.ru/pspdf/1213/talk_abstracts/Prokhorova_Marina_11.06.2013.pdf\">Colloquium</a> of the <a href=\"http://math.hse.ru/en/\">Faculty of Mathematics</a> (Higher School of Economics, Moscow, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2012</td>\n<td><a href=\"http://ag.hse.ru/seminar\">Seminar of Laboratory of Algebraic Geometry and its Applications</a> (Moscow, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2010</td>\n<td>Geometry and Topology Seminar (<a href=\"http://www.wisdom.weizmann.ac.il/math/\">Weizmann Institute</a>, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2010</td>\n<td><a href=\"http://www.math.technion.ac.il/Site/events/seminars-colloquia/non-linear-analysis&amp;optimization/2009-2010/Jun-27.html\">Nonlinear Analysis and Optimization Seminar</a> (Technion, Israel)</td>\n</tr>\n<tr>\n<td width=\"130\">2010</td>\n<td><a href=\"http://recherche.math.univ-angers.fr/spip.php?article13&amp;site=56&amp;session=15\">Mathematical physics seminar</a> (Angers University, France)</td>\n</tr>\n<tr>\n<td width=\"130\">2010</td>\n<td><a href=\"http://www.math.uni-bonn.de/people/ag/ga/oberseminar/oberseminar.html\">Research seminar Global Analysis</a> (Mathematical Institute of the University of Bonn, Germany)</td>\n</tr>\n<tr>\n<td width=\"130\">2010</td>\n<td>Seminar on Algebra, Geometry and Physics (<a href=\"http://www.mpim-bonn.mpg.de/\">Max Planck Institute for Mathematics</a>, Bonn, Germany)</td>\n</tr>\n<tr>\n<td width=\"130\">2009</td>\n<td>V.A.Rohlin Topology Seminar (Petersburg Department of the Steklov Institute of Mathematics, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2006, 2008, 2010</td>\n<td><a href=\"http://ium.mccme.ru/s11/hom_de.html\">Seminar on Cohomological Aspects of Geometry of Differential Equations</a> (Independent University of Moscow, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2005</td>\n<td>Seminar on Low-Dimensional Mathematics (Petersburg Department of the Steklov Institute of Mathematics, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2000, 2002</td>\n<td>Seminar on Decomposition of Mathematical Models (Computing Center of Russian Academy of Sciences, Moscow, Russia)</td>\n</tr>\n<tr>\n<td width=\"130\">2001</td>\n<td>Geometry Seminar (Kazan State University, Russia)</td>\n</tr>\n</tbody>\n</table>",
+            "summary": "2025 Quantum Lunch Seminar (University of Copenhagen, Denmark) 2023 Noncommutative Geometry Seminar&hellip;",
+            "content_html": "<table style=\"font-weight: 400; width: 100%; height: 1844.8px;\">\n<tbody>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\">2025</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"https://qmath.ku.dk/events/quantum-lunch/quantum-lunch-2025/qlunch-marina-prokhorova/\" target=\"_blank\" rel=\"noopener noreferrer\">Quantum Lunch Seminar</a> (University of Copenhagen, Denmark)</td>\n</tr>\n<tr style=\"height: 80.35px;\">\n<td style=\"width: 18.5185%; height: 80.35px;\">2023</td>\n<td style=\"width: 81.3675%; height: 80.35px;\"><a href=\"https://researchseminars.org/talk/NYC-NCG/123/\" target=\"_blank\" rel=\"noopener noreferrer\">Noncommutative Geometry Seminar</a> (St Johns University, New York City, USA)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\">2020</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"https://web.northeastern.edu/braverman/AGSeminar.html\">Analysis and Geometry Seminar</a> (Northeastern University, Boston, USA)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2020</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"https://qmath.ku.dk/events/gampqmath-seminar-spectral-flow-and-family-index-for-elliptic-boundary-value-problems-on-compact-surfaces/\">GAMP/QMATH Seminar</a> (University of Copenhagen, Denmark)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2019</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"https://www.math.bgu.ac.il/en/research/fall2020/seminars/oa-ot-seminar/meetings/2019-12-17\">Operator Algebras/Operator Theory Seminar</a> (Ben Gurion University, Beer-Sheva, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2019</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"http://sciences.haifa.ac.il/math/wp/?p=1565\">Geometry &amp; Topology Seminar</a> (University of Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2019</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo908\">Algebra Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2019</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo881\">PDE and Applied Mathematics Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2019</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo879\">Operator Algebras/Operator Theory Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2018</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo737\">Operator Algebras/Operator Theory Seminar</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2018</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Nonlinear Analysis and Optimization Seminar: <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo670\">1</a>, <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo683\">2</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2015</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://ag.hse.ru/seminar\">Seminar of Laboratory of Algebraic Geometry and its Applications</a> (Moscow, Russia)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2015</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Nonlinear Analysis and Optimization Seminar: <a href=\"https://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo57\">1</a>, <a href=\"http://www.math.technion.ac.il/Site/events/EvntOffices/event.php?eid=eo73\">2</a> (Technion, Haifa, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2015</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Geometry and Topology Seminar (Weizmann Institute of Sciences, Rehovot, Israel)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2015</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://www.math.bgu.ac.il/colloq/Calendar?event=a3e7b222982fc18b055eacecbb137ba0\">Operator and System Theory Seminar</a> (Ben-Gurion University, Beer-Sheva, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2014</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"http://recherche.math.univ-angers.fr/spip.php?article13&amp;site=56&amp;session=15&amp;presentation=80\">Mathematical physics seminar</a> (Angers University, France)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2013</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://vyshka.math.ru/pspdf/1213/talk_abstracts/Prokhorova_Marina_11.06.2013.pdf\">Colloquium</a> of the <a href=\"http://math.hse.ru/en/\">Faculty of Mathematics</a> (Higher School of Economics, Moscow, Russia)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2012</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://ag.hse.ru/seminar\">Seminar of Laboratory of Algebraic Geometry and its Applications</a> (Moscow, Russia)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2010</td>\n<td style=\"width: 81.3675%; height: 48.35px;\">Geometry and Topology Seminar (<a href=\"http://www.wisdom.weizmann.ac.il/math/\">Weizmann Institute</a>, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2010</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"http://www.math.technion.ac.il/Site/events/seminars-colloquia/non-linear-analysis&amp;optimization/2009-2010/Jun-27.html\">Nonlinear Analysis and Optimization Seminar</a> (Technion, Israel)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2010</td>\n<td style=\"width: 81.3675%; height: 48.35px;\"><a href=\"http://recherche.math.univ-angers.fr/spip.php?article13&amp;site=56&amp;session=15\">Mathematical physics seminar</a> (Angers University, France)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2010</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://www.math.uni-bonn.de/people/ag/ga/oberseminar/oberseminar.html\">Research seminar Global Analysis</a> (Mathematical Institute of the University of Bonn, Germany)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2010</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Seminar on Algebra, Geometry and Physics (<a href=\"http://www.mpim-bonn.mpg.de/\">Max Planck Institute for Mathematics</a>, Bonn, Germany)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2009</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">V.A.Rohlin Topology Seminar (Petersburg Department of the Steklov Institute of Mathematics, Russia)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2006, 2008, 2010</td>\n<td style=\"width: 81.3675%; height: 75.35px;\"><a href=\"http://ium.mccme.ru/s11/hom_de.html\">Seminar on Cohomological Aspects of Geometry of Differential Equations</a> (Independent University of Moscow, Russia)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2005</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Seminar on Low-Dimensional Mathematics (Petersburg Department of the Steklov Institute of Mathematics, Russia)</td>\n</tr>\n<tr style=\"height: 75.35px;\">\n<td style=\"width: 18.5185%; height: 75.35px;\" width=\"130\">2000, 2002</td>\n<td style=\"width: 81.3675%; height: 75.35px;\">Seminar on Decomposition of Mathematical Models (Computing Center of Russian Academy of Sciences, Moscow, Russia)</td>\n</tr>\n<tr style=\"height: 48.35px;\">\n<td style=\"width: 18.5185%; height: 48.35px;\" width=\"130\">2001</td>\n<td style=\"width: 81.3675%; height: 48.35px;\">Geometry Seminar (Kazan State University, Russia)</td>\n</tr>\n</tbody>\n</table>",
             "author": {
                 "name": "Marina Prokhorova"
             },
             "tags": [
             ],
-            "date_published": "2020-03-23T18:50:42+02:00",
-            "date_modified": "2025-09-11T10:20:29+03:00"
+            "date_published": "2020-03-23T17:50:42+01:00",
+            "date_modified": "2025-09-26T18:14:48+02:00"
         },
         {
             "id": "https://marina-p.info/marina-prokhorova/",
@@ -132,8 +132,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-03-22T06:35:02+02:00",
-            "date_modified": "2025-09-18T20:09:09+03:00"
+            "date_published": "2020-03-22T05:35:02+01:00",
+            "date_modified": "2025-09-18T19:09:09+02:00"
         }
     ]
 }
